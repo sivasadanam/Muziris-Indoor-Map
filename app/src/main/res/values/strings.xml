@@ -267,4 +267,7 @@
     <string name="select_map_page">Select map page</string>
     <string name="rotate_page">Rotate page</string>
     <string name="select_action">Select</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
